@@ -107,7 +107,7 @@
  "banana-prompt-quicker:banana-prompt-quicker:aa59ee92b689aad6": {
   "status": "failed",
   "url": "https://linux.do/uploads/default/optimized/4X/1/5/1/1518d978c948fb70ab03c11537db1e1f5136249e_2_1000x1000.jpeg",
-  "error": "curl HTTP 403"
+  "error": "curl HTTP 403 | fix2 failed"
  },
  "banana-prompt-quicker:banana-prompt-quicker:3b95840f36bdc281": {
   "status": "ok",
@@ -144,7 +144,7 @@
  "banana-prompt-quicker:banana-prompt-quicker:11b0de7e89e1a0b8": {
   "status": "failed",
   "url": "https://cdn.jsdelivr.net/gh/glidea/banana-prompt-quicker@main/images/afadan.png",
-  "error": "curl HTTP 404"
+  "error": "curl HTTP 404 | fix2 failed"
  },
  "banana-prompt-quicker:banana-prompt-quicker:bdda8899dc0c91b3": {
   "status": "ok",
@@ -501,12 +501,12 @@
  "banana-prompt-quicker:banana-prompt-quicker:d5fcd46fdb7e8344": {
   "status": "failed",
   "url": "https://pbs.twimg.com/media/G6YNznVWoAEoBuQ?format=jpg&name=medium",
-  "error": "curl HTTP 404"
+  "error": "curl HTTP 404 | fix2 failed"
  },
  "banana-prompt-quicker:banana-prompt-quicker:9915b7f67d0fc426": {
   "status": "failed",
   "url": "https://pbs.twimg.com/media/GzdC8K0b0AEzvVP?format=jpg&name=small",
-  "error": "curl HTTP 403"
+  "error": "curl HTTP 403 | fix2 failed"
  },
  "banana-prompt-quicker:banana-prompt-quicker:0fe504cd7ba585b6": {
   "status": "ok",
@@ -735,7 +735,7 @@
  "banana-prompt-quicker:banana-prompt-quicker:d02288365b7b7bbd": {
   "status": "failed",
   "url": "https://linux.do/uploads/default/original/4X/9/c/8/9c8b413ed123820810b7893d1e07e5f84e151b99.jpeg",
-  "error": "curl HTTP 403"
+  "error": "curl HTTP 403 | fix2 failed"
  },
  "banana-prompt-quicker:banana-prompt-quicker:f055360b273a31b4": {
   "status": "ok",
@@ -860,7 +860,7 @@
  "banana-prompt-quicker:banana-prompt-quicker:f15d2dc74db1ba91": {
   "status": "failed",
   "url": "https://linux.do/uploads/default/original/4X/f/3/c/f3cc75fb0df7cf9fa7fd83d281501af487de70bf.jpeg",
-  "error": "curl HTTP 403"
+  "error": "curl HTTP 403 | fix2 failed"
  },
  "banana-prompt-quicker:banana-prompt-quicker:2a6767d10fca6e53": {
   "status": "ok",
@@ -961,27 +961,27 @@
  "banana-prompt-quicker:banana-prompt-quicker:72a78a2a11eaa9ce": {
   "status": "failed",
   "url": "https://linux.do/uploads/default/optimized/4X/b/6/3/b63efa35938ab1780f8ddf69eb1d550251fc6fd9_2_1000x1000.jpeg",
-  "error": "curl HTTP 403"
+  "error": "curl HTTP 403 | fix2 failed"
  },
  "banana-prompt-quicker:banana-prompt-quicker:f5e5697654678737": {
   "status": "failed",
   "url": "https://linux.do/uploads/default/original/4X/4/8/a/48ab3b57859c9395609bde41b3151e33b0db75b2.jpeg",
-  "error": "curl HTTP 403"
+  "error": "curl HTTP 403 | fix2 failed"
  },
  "banana-prompt-quicker:banana-prompt-quicker:058c05bf2ac93f1d": {
   "status": "failed",
   "url": "https://linux.do/uploads/default/original/4X/9/f/b/9fba7a8b5be6dcecbee684cd83c11a8451310aba.jpeg",
-  "error": "curl HTTP 403"
+  "error": "curl HTTP 403 | fix2 failed"
  },
  "banana-prompt-quicker:banana-prompt-quicker:f89a3f59fad78e97": {
   "status": "failed",
   "url": "https://linux.do/uploads/default/optimized/4X/d/f/0/df08ae8cfb92b936135376ce87e8ca83a2f1e044_2_732x1000.jpeg",
-  "error": "curl HTTP 403"
+  "error": "curl HTTP 403 | fix2 failed"
  },
  "banana-prompt-quicker:banana-prompt-quicker:2daebd1797c537a1": {
   "status": "failed",
   "url": "https://linux.do/uploads/default/optimized/4X/4/6/9/469fa005cf2b30291eaa1a3015468228cf85047a_2_1380x584.webp",
-  "error": "curl HTTP 403"
+  "error": "curl HTTP 403 | fix2 failed"
  },
  "banana-prompt-quicker:banana-prompt-quicker:40aa85697879ab16": {
   "status": "ok",
@@ -1050,7 +1050,7 @@
  "banana-prompt-quicker:banana-prompt-quicker:35faa8872a3da416": {
   "status": "failed",
   "url": "https://linux.do/uploads/default/optimized/4X/a/0/b/a0bf7c3b0e5df99626c4036502e9f3b9d09d11b1_2_670x1000.jpeg",
-  "error": "curl HTTP 403"
+  "error": "curl HTTP 403 | fix2 failed"
  },
  "banana-prompt-quicker:banana-prompt-quicker:354bcdb1d1e3428d": {
   "status": "ok",
@@ -1103,7 +1103,7 @@
  "banana-prompt-quicker:banana-prompt-quicker:2c26d3edbca71360": {
   "status": "failed",
   "url": "https://linux.do/uploads/default/optimized/4X/b/5/d/b5d969d11ad3d9b78479e80d3842901a2f937606_2_1380x752.jpeg",
-  "error": "curl HTTP 403"
+  "error": "curl HTTP 403 | fix2 failed"
  },
  "banana-prompt-quicker:banana-prompt-quicker:01467ffd1f05e5c1": {
   "status": "ok",
@@ -1780,7 +1780,7 @@
  "banana-prompt-quicker:banana-prompt-quicker:666140d2c6ce8ffc": {
   "status": "failed",
   "url": "https://pbs.twimg.com/media/G5YBkPtbYAAVDEr?format=jpg&name=medium",
-  "error": "curl HTTP 404"
+  "error": "curl HTTP 404 | fix2 failed"
  },
  "banana-prompt-quicker:banana-prompt-quicker:fc4cf69a0a5f5953": {
   "status": "ok",
@@ -1791,9 +1791,12 @@
   "content_type": "image/png"
  },
  "banana-prompt-quicker:banana-prompt-quicker:47e2794129c00657": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/d8ee52518aa3db45867fbaac63b4b57f6ad2e24e96a7519bab0c306747c0da21/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d74685a656a4d675830504752316e50796a315a33742e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_47e2794129c00657.png",
+  "bytes": 1992770,
+  "sha256": "38583bd123f3d1da1408ec3112c60116ee5e36f9393ea20d5b4f4ff385e9605c",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-thZejMgX0PGR1nPyj1Z3t.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:07945f1bc3b84cfb": {
   "status": "ok",
@@ -1804,29 +1807,44 @@
   "content_type": "image/jpeg"
  },
  "banana-prompt-quicker:banana-prompt-quicker:4313da49e52fcdb3": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/0749f414a01d6b6e053e86e0edd1877d1c7a5666683b04071da0115cf7830653/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d424f4877686d6b2d482d4c785133393865706b50702e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_4313da49e52fcdb3.png",
+  "bytes": 1944874,
+  "sha256": "2dc09fe939e633a1348a7f955dc4aa576b557c6c3f7129fdb9279137ae7e2f26",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-BOHwhmk-H-LxQ398epkPp.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:90393941dec61995": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/db8e5dc52a7c7d814c573877ee03225c4d4e761d0d987fbec05f1c8f3be8ebe2/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d71564b36666d2d66503861342d4c7870614e374a692e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_90393941dec61995.png",
+  "bytes": 2138469,
+  "sha256": "6279a19c6471d14f3135a2cdb6ea7e912a81165630d91a1c4d2b2a523821f2f2",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4-LxpaN7Ji.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:1ecacea2b88defae": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/a4ec79c77aa9d82a3ac05572963439535987464070ab3a0f18f05b6cf28a1484/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d4a6e687479666157524c4a34387079314673324c382e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_1ecacea2b88defae.png",
+  "bytes": 1407995,
+  "sha256": "69ba2720f4c16305c42e25e37a92800ab0b869378b99957351247860f33c4d39",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-JnhtyfaWRLJ48py1Fs2L8.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:91c79527b1d1ef5c": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/cb6e5f986b2031c8eb3953f29fa01733c18907ef1a2828e72674d9c28bbe5b2f/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d576e46454552544a4a626e4470636a4b64623335552e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_91c79527b1d1ef5c.png",
+  "bytes": 757695,
+  "sha256": "ffe003fbd9926be3ff4dd4b3cc02891e2ba347c4304954aa3066a857630e0fb8",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-WnFEERTJJbnDpcjKdb35U.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:3fc917e80e504480": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/c4a11a7e1012e9f7b1c0a9da081507a923ebc5d9f2a1f02e1b552a6f398d3060/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d306679596f3764325663337566486e5855306678682e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_3fc917e80e504480.png",
+  "bytes": 1651205,
+  "sha256": "317e25664401194b3924da984b3600a14ba73d81a49c2cd709dda0ba401c23ae",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-0fyYo7d2Vc3ufHnXU0fxh.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:90796f18059228d8": {
   "status": "ok",
@@ -1837,9 +1855,12 @@
   "content_type": "image/jpeg"
  },
  "banana-prompt-quicker:banana-prompt-quicker:59f2372001f48d1d": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/39b333bbe057c8bfbbec026f843b2cfb9d7a399ae63eef6121839731786ecb0c/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d7044736142346f5f6f694e496a75645f6a357970702e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_59f2372001f48d1d.png",
+  "bytes": 1640953,
+  "sha256": "bdcfed443dd0a1863518a50fa947a94315804d92ddd40194c5177b7e3869e209",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-pDsaB4o_oiNIjud_j5ypp.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:ed50279559e8bbad": {
   "status": "ok",
@@ -1858,9 +1879,12 @@
   "content_type": "image/jpeg"
  },
  "banana-prompt-quicker:banana-prompt-quicker:7383005af8d94dc7": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/65210cc20d1ddd967e05e0cc20805dccceda04f3d30991e2e1925a8f86b54b1c/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d654a7a7761703765374b7353774a6f665933696a382e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_7383005af8d94dc7.png",
+  "bytes": 2096401,
+  "sha256": "356e2160ad707fa65641e5dd4c3a3051504b6e3239d63ece11751055a7e75d0b",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-eJzwap7e7KsSwJofY3ij8.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:697778076a64e0a5": {
   "status": "ok",
@@ -1999,59 +2023,92 @@
   "content_type": "image/jpeg"
  },
  "banana-prompt-quicker:banana-prompt-quicker:2e4bf2603bfaf9dd": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/2b53ef31557db7f68efd49a9b95e6cf04e40863e7bfc5878ab654ec7056283fa/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d6a5058363570464c424d54767a56614367536a6c7a2e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_2e4bf2603bfaf9dd.png",
+  "bytes": 2531653,
+  "sha256": "a99dcb02693a813f01f9c1ac0909851287b16a069f82aee6c6cdf51221390b8b",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jPX65pFLBMTvzVaCgSjlz.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:c111f26c60805650": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/fb16e65d547095227d221354766db4c0ee775c9d5247e6337fe1397f0ee42d3b/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d794164365071514d7438365658364e68315146436c2e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_c111f26c60805650.png",
+  "bytes": 1323880,
+  "sha256": "5f85622999bd26473a3c808cb93c0011385080ef9d124944a7a9e285cd06a23d",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-yAd6PqQMt86VX6Nh1QFCl.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:55c6d8658c7c9388": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/ff60c97d59ac8dcf08130db0dc8dc94f22222cee56f80800d4950e53170facd6/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d5a775834584a427a3542714d63764f585963656e302e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_55c6d8658c7c9388.png",
+  "bytes": 1685057,
+  "sha256": "9b9c8fbff30212675fede43868f8652553456d47a26373d2e0231f81c342c2a1",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ZwX4XJBz5BqMcvOXYcen0.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:1c15755a8de56af4": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/08cd326bf7298cec0e74668e927df19988dd715cbe5968a82583554bf8a8fd1b/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d712d35377a6149545362376435593231596136526b2e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_1c15755a8de56af4.png",
+  "bytes": 917561,
+  "sha256": "4b3c235bab9fd36cbbfbab5dd9b0e75d06b612b3d741a42030c5689025d9cfe0",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-q-57zaITSb7d5Y21Ya6Rk.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:d695694ca620fc16": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/77d141c0b20a88c50ae0f517d829f92e0743f32220e023b795eba354669d6167/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d76566f56516b367256514246326247554d47664f722e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_d695694ca620fc16.png",
+  "bytes": 1044004,
+  "sha256": "7429a431055c63181d6b60ed66dc2bb565ee5a650316a2f2379d3debc1133a5b",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-vVoVQk6rVQBF2bGUMGfOr.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:9235bc4e4b445e77": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/e10a8da63bb593ebe441a539072aee82de9a2a03dea0420002133fe0a23980eb/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d64346d7443793244755a6b32626b5869444d6f4f532e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_9235bc4e4b445e77.png",
+  "bytes": 1742495,
+  "sha256": "340942f40c08bc9f3327a27fb2b228de9e22e1a12decc1ad0bde35e97765a930",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-d4mtCy2DuZk2bkXiDMoOS.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:c81f4ca94d7ea5ca": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/4a973f06b0fc116ae1f42b5a5ec370f08ae0606212cd5f5e1b6e2fd5e1724b06/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d2d51577a495941744f374b433348746868736a48302e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_c81f4ca94d7ea5ca.png",
+  "bytes": 1106261,
+  "sha256": "377effef82d5954cf26e6f943c45da19dbafc8a8197ea79a4f7ad3038c8e4751",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry--QWzIYAtO7KC3HthhsjH0.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:7f1f66d278ef053c": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/ab4ecc5f919ae1f59f23dd6dbc42cb6e75aaecc7369943cc4346a2958d2efbc7/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d646b335630734c4c54443966515730444d3970786e2e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_7f1f66d278ef053c.png",
+  "bytes": 1032582,
+  "sha256": "7a52dc53bc274c655380935fa99140c71acc5f2005303918bef66e67e2b998a6",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-dk3V0sLLTD9fQW0DM9pxn.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:c9e5cc188ffce487": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/6e87a6abd6bce57d9e0e9fa763e8172920e3a99769b32314adcbe60f1dccb5a4/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d7557417442794a353434636452356e426a4d4d33482e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_c9e5cc188ffce487.png",
+  "bytes": 1347722,
+  "sha256": "aac70280c77a2c1985755f98c4a9653d284d25f9bcb723c5c7f24e60665aa3a3",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-uWAtByJ544cdR5nBjMM3H.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:04c2a29bd258f494": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/cd6872f458c49d960a9995a18d66d631fc7ca4c4725ffdde68c1ff3b631ee6b4/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d6e76414571617876736c446e2d703268434b62484e2e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_04c2a29bd258f494.png",
+  "bytes": 1978884,
+  "sha256": "63627debf88c448b61d0399f3b38aaa492807e3f1941c37e9b4ddb5551e8868f",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-nvAEqaxvslDn-p2hCKbHN.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:d7af9742c3d6e2a1": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/f047543ae11e9311c97619f4c0f4c6e85e8f755fa54860efc75cbe9806c6c0f6/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d4e567365347a566867596f4b5347764e5f5f792d6d2e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_d7af9742c3d6e2a1.png",
+  "bytes": 896844,
+  "sha256": "79e0fbddd1d5409791b28e374bb5483f315dda2398bd13699d13fbf0bbe797cf",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-NVse4zVhgYoKSGvN__y-m.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:e306533437ed4c66": {
   "status": "ok",
@@ -2062,79 +2119,124 @@
   "content_type": "image/png"
  },
  "banana-prompt-quicker:banana-prompt-quicker:d8ad1580788924df": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/9253d5b1312c7723cb62b2f0e889cb567cbc1175eb82a5d30895e8cb2b30f123/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d786c397a45753772335644584f5f4f5a474d3161372e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_d8ad1580788924df.png",
+  "bytes": 1186674,
+  "sha256": "e70def9852a30b8295b89d0393050f637207b4a9faa0dba6eff9353e8f608487",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-xl9zEu7r3VDXO_OZGM1a7.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:f6f301d15467108b": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/a6b07bb2170ebd24d3de178a711d25442a1e5373b86895e934961f20519c2950/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d524566655f50666759667a363766356c6961664b752e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_f6f301d15467108b.png",
+  "bytes": 2324622,
+  "sha256": "99247b53fb53b7aace73de58a85891e1a8c529146380de332e037f50ec3e267c",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-REfe_PfgYfz67f5liafKu.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:c03375fc3edef422": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/21c44f84989b1176b77bf9bda731611c7b9f7081db4be73c0d67d10bcc9a4d5f/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d4b4d76665a6b4c4675764d457a437a4254387977722e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_c03375fc3edef422.png",
+  "bytes": 2006708,
+  "sha256": "6dd6356aeee8edaed48120786a245b21bfa7545598d88eeb69a421057882c9d2",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-KMvfZkLFuvMEzCzBT8ywr.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:4205f6a596c52cd3": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/8270aa4a29f6ff2256fd4130a1fceb7b54e6df26269c91001ece8e6d705e6450/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d756b6e5f617a747a413479544e474e46315143546c2e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_4205f6a596c52cd3.png",
+  "bytes": 1143029,
+  "sha256": "c5f188648e852b29ed7b545d2782ea12af10e485d51ae406433f59cec0fbbc4b",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ukn_aztzA4yTNGNF1QCTl.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:f7552bb40c52e307": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/f95d2fab4d47abf6501175038b12d57649e46ff0599cb3ed96ae45bedde81eed/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d4e632d7641686149487148697369637a69525551352e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_f7552bb40c52e307.png",
+  "bytes": 2128471,
+  "sha256": "788344079fb880dad8e2e3bef700c2c0ba4daeec31c9a2a0c645651bc2cd2739",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Nc-vAhaIHqHisicziRUQ5.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:4ea44cec28e84000": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/1a623fc0c48774dd44d9ac8749b5ecc2eb91f3b1911eb47f2bc58e08f0442491/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d7463504a594a71576853694c42742d4b4d6e7579442e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_4ea44cec28e84000.png",
+  "bytes": 1204302,
+  "sha256": "925d9b92b17a237ddb781aa2240da0abd5b206b16b625151f8fa7dc0a935a710",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-tcPJYJqWhSiLBt-KMnuyD.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:762c1802cbb62d2a": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/f6ea76545847586388ceb6dc749054b2a91be35fe42c51eb9f2e3cdd31337ebc/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d51436453414e324979696779485656706c7058474c2e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_762c1802cbb62d2a.png",
+  "bytes": 1870741,
+  "sha256": "d78f4af08bc1028316b8432617281047e8ee36e5adbd89d84a48b1af8e9bd4b1",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-QCdSAN2IyigyHVVplpXGL.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:30ab8d0f480809a5": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/48ab315960b037955aaa2349972ef99a880c791d9bcc1ada88692691e7b85538/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d75664b5152552d307a58586c4143745f415f444e642e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_30ab8d0f480809a5.png",
+  "bytes": 2355685,
+  "sha256": "1a46d6d988d1cbebedaab7663c71f2f3abb9b0aa070d2f63fcf4601abf7552ec",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-ufKQRU-0zXXlACt_A_DNd.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:c25fd653c4b78d97": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/83e38ad7752cde79777020605aac1e000faec10e8b77ee4dc27a177f30032d6f/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d4830453845715131306a72626530643871373133372e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_c25fd653c4b78d97.png",
+  "bytes": 561025,
+  "sha256": "067199166d05fe79a25f3769897de657f44ac3367330dc5cdc1059a3d7c7fda3",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-H0E8EqQ10jrbe0d8q7137.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:e5364b831174b4f4": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/f06bcee6af14975b53382123ac726fe714fa531b3378e9838a316a62cee318e7/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d4b2d7a4d526c7a753379396245724a68356f4444652e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_e5364b831174b4f4.png",
+  "bytes": 1955333,
+  "sha256": "cb632ecae85cd4e905c49d3cc6597dea0b7a1cc59400004a52a6063408729869",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-K-zMRlzu3y9bErJh5oDDe.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:1696f5c764d5a997": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/fd39233256cad07cd22688a18d7d24d73c81ae825e4571c7d48faaa374bfe4a9/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d386b66617335364a63332d6631354f3839707a4b4e2e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_1696f5c764d5a997.png",
+  "bytes": 1679534,
+  "sha256": "3d6291ce5fd13bb0134e34eccabad69ec7b4850e7ee62de0f03e738ad5dedc64",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-8kfas56Jc3-f15O89pzKN.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:dd8a6cfd5c18c6d9": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/b7a7c89709c5637e3dc6c5f53aa869c009d14009a01057e4862bf055495f18fa/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d536f5a50325a773148435258474f4e46645a5344732e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_dd8a6cfd5c18c6d9.png",
+  "bytes": 879363,
+  "sha256": "d9701af83c99c0570ada2114d4d51ad1ce61b99c70814437564b6d6e200a1f9a",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-SoZP2Zw1HCRXGONFdZSDs.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:c94e46fea77a3186": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/8ff51afd35ba86f0e12ce304f0c651059f5b8ac1bb549150d1fa15bcef58fbcb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a616d657a2d626f6e646f732f617765736f6d652d677074346f2d696d616765732f63617365732f34342f6578616d706c655f7270675f636172645f64657369676e65722e706e67",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_c94e46fea77a3186.png",
+  "bytes": 841499,
+  "sha256": "f0ee0740c758df6b6549f2661c001f4ee57f891642a185f00978cbe850bd5095",
+  "source": "fix2:https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/44/example_r"
  },
  "banana-prompt-quicker:banana-prompt-quicker:bf496f869e8494f4": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/0a83915cad66e1b1f35aed3e0e0a65addaa92c82be9373b4df115ed458114b11/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a616d657a2d626f6e646f732f617765736f6d652d677074346f2d696d616765732f63617365732f34332f6578616d706c655f6d617472796f73686b615f706561726c5f65617272696e672e706e67",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_bf496f869e8494f4.png",
+  "bytes": 817753,
+  "sha256": "39a9ffada26b637522b3589107957e5b76243d89f5cbce4acf9d0ebfb9b66e4f",
+  "source": "fix2:https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/43/example_m"
  },
  "banana-prompt-quicker:banana-prompt-quicker:6741b3fe1bf46f0c": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/1f0fae059d027f42d34cf2832eb804d73431e1e98ec118a01395e4ba6f8817a8/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d5a6848674b6b727951655f653632674a794d706a382e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_6741b3fe1bf46f0c.png",
+  "bytes": 2299537,
+  "sha256": "06aeb523667a120e0eb4cf6baeb118866294167475de365ca34046fea139bc30",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-ZhHgKkryQe_e62gJyMpj8.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:ace567690651ce00": {
   "status": "ok",
@@ -2145,124 +2247,196 @@
   "content_type": "image/png"
  },
  "banana-prompt-quicker:banana-prompt-quicker:e0d1c5838b19ee8e": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/d50b0d3392e3a7feb4acd0453f8543edaa8ce5823c8287b22980df1bd55b7305/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a616d657a2d626f6e646f732f617765736f6d652d677074346f2d696d616765732f63617365732f33392f6578616d706c655f66616e746173795f636f6d70757465725f686561645f706f7274616c2e706e67",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_e0d1c5838b19ee8e.png",
+  "bytes": 723364,
+  "sha256": "3b37c81f9d18a2274945f3a190e4366574e394684ba2ad5e12685963efdcac54",
+  "source": "fix2:https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/39/example_f"
  },
  "banana-prompt-quicker:banana-prompt-quicker:6266fe30a563075c": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/2b6307f6e906fced7e675614c25fbed6a5e49d47544a050e8e6793a7c2bf0543/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d4274303535695734374f557152444f682d4b30675a2e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_6266fe30a563075c.png",
+  "bytes": 497714,
+  "sha256": "bc954e68c80e6d4e0ed721dbd0e454f29528e79776d82a293d8c20043894dee3",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-Bt055iW47OUqRDOh-K0gZ.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:523467ea59ebe757": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/2c1ecd488ccc8f41ef612de8d22b7e4a38f159c8c8d49a8fee944c136c8b87eb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a616d657a2d626f6e646f732f617765736f6d652d677074346f2d696d616765732f63617365732f33382f6578616d706c655f68616e645f647261776e5f696e666f677261706869632e706e67",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_523467ea59ebe757.png",
+  "bytes": 1219273,
+  "sha256": "dbbd7758496fb18fcc845f6cf4245cb41854a5e60dbafb554b1a0e28846a1fc8",
+  "source": "fix2:https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/38/example_h"
  },
  "banana-prompt-quicker:banana-prompt-quicker:fc84da7992ce20ec": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/e99ef2df7acf4c797fadaba52718b901e2634460ac545482fe91b27f9fa62fec/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a616d657a2d626f6e646f732f617765736f6d652d677074346f2d696d616765732f63617365732f34322f6578616d706c655f33645f715f736e6f77676c6f62655f636f75706c652e706e67",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_fc84da7992ce20ec.png",
+  "bytes": 535832,
+  "sha256": "6944e5d0a4bc87a364a8443f3365a03b6f5ad1a98a5670e39255223c06fee50e",
+  "source": "fix2:https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/42/example_3"
  },
  "banana-prompt-quicker:banana-prompt-quicker:085965e3c0680f64": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/f183d55c3ec78ff3aa0b8ad162592e76660fd6eded824c09ac32ec090e5d3222/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a616d657a2d626f6e646f732f617765736f6d652d677074346f2d696d616765732f63617365732f34302f6578616d706c655f74776f5f70616e656c5f6d616e67615f707265736964656e742e706e67",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_085965e3c0680f64.png",
+  "bytes": 1072004,
+  "sha256": "215b6e0f5e42feb689db7b6021cfc1b24f42e4edd11140cb543f32cb62b63454",
+  "source": "fix2:https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/40/example_t"
  },
  "banana-prompt-quicker:banana-prompt-quicker:74460d6526652886": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/d710da544912283c5f4da3e226e61b8ecd5b639442b98572a8df2593ee1decbb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a616d657a2d626f6e646f732f617765736f6d652d677074346f2d696d616765732f63617365732f33372f70617374656c5f706f7765725f33645f6164732e706e67",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_74460d6526652886.png",
+  "bytes": 484724,
+  "sha256": "1981391266b3adef4f6fc352c480f187c52d37f7e5be55c8aecf8629b36ed3c2",
+  "source": "fix2:https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/37/pastel_po"
  },
  "banana-prompt-quicker:banana-prompt-quicker:73f7d21fec66a2da": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/3652508db41807adb2fb9055856eb874eb67f8e82ad880ea1fbfb005d0e04340/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a616d657a2d626f6e646f732f617765736f6d652d677074346f2d696d616765732f63617365732f33362f6578616d706c655f6d696e696d616c6973745f33645f746f696c65745f7478742e706e67",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_73f7d21fec66a2da.png",
+  "bytes": 819218,
+  "sha256": "0c755e1d3facf1282726a4b3382a9a0b1467ba0d45ca7e4d74c9c87c71c4985a",
+  "source": "fix2:https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/36/example_m"
  },
  "banana-prompt-quicker:banana-prompt-quicker:4035fc702361610e": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/add591fcb6adacc9f7250f90ab93e04dc7306ee90b82eab91906246856447465/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a616d657a2d626f6e646f732f617765736f6d652d677074346f2d696d616765732f63617365732f33352f6578616d706c655f666c756666795f70756d706b696e2e706e67",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_4035fc702361610e.png",
+  "bytes": 424351,
+  "sha256": "3b722a49f698ad3d0bce9dc4e37317fd6e3e2c4ad710c1b04e66c62e930600a6",
+  "source": "fix2:https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/35/example_f"
  },
  "banana-prompt-quicker:banana-prompt-quicker:35c572ae9ef467bb": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/3fb5da55ac7d69ecaeb5ffb1c2faba189479a5f43b06dea7e42f0cdb16e8ed42/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a616d657a2d626f6e646f732f617765736f6d652d677074346f2d696d616765732f63617365732f33332f6578616d706c655f66616d696c795f77656464696e675f70686f746f5f712e706e67",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_35c572ae9ef467bb.png",
+  "bytes": 737678,
+  "sha256": "b29b1f5601e97d0b6bf45e2c91264522e2d9a260a54ad8753d245304d1ba89a1",
+  "source": "fix2:https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/33/example_f"
  },
  "banana-prompt-quicker:banana-prompt-quicker:31bee4b0c7398788": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/5d29d42b32f595ff9ae827149d4fc057e99488ec9e777dc2f78eefa761a04167/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d70564470535231634c61366b376d6649626d6d4f352e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_31bee4b0c7398788.png",
+  "bytes": 2210917,
+  "sha256": "c9f20267ff962c137e36cedc458dd0d5697075099676a10b59d1bd8cfca98b89",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-pVDpSR1cLa6k7mfIbmmO5.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:8539da72ed023630": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/8bb13880a0cd25a353c4765d6b8310c5bf348914a9d06634328c8e77a9a69a40/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a616d657a2d626f6e646f732f617765736f6d652d677074346f2d696d616765732f63617365732f33322f33645f706170657263726166745f706f7075705f626f6f6b2e706e67",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_8539da72ed023630.png",
+  "bytes": 575318,
+  "sha256": "fdf38f5291762ac8a42b7f8d3f22946eb610de25ad853251109212301d39d833",
+  "source": "fix2:https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/32/3d_paperc"
  },
  "banana-prompt-quicker:banana-prompt-quicker:0fc126ab845e4a74": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/bbd003c3b5e1edffb792e0d7a8260362459d71788fc94beff3f84546ebb23f77/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a616d657a2d626f6e646f732f617765736f6d652d677074346f2d696d616765732f63617365732f33312f6578616d706c655f6e617275746f5f737469636b6572732e706e67",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_0fc126ab845e4a74.png",
+  "bytes": 644534,
+  "sha256": "af53345eaaff5fb25e9fa83b153b3a5832f9974b736cd12b51349e9573aa830e",
+  "source": "fix2:https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/31/example_n"
  },
  "banana-prompt-quicker:banana-prompt-quicker:6c6e37b68e172d79": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/7d1e1876e70093cc7f306d54d1b034c442975d333584d174a8a5966b9b9673ca/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a616d657a2d626f6e646f732f617765736f6d652d677074346f2d696d616765732f63617365732f33302f6578616d706c655f33356d6d5f6d6f73636f775f666c79696e675f69736c616e642e706e67",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_6c6e37b68e172d79.png",
+  "bytes": 712651,
+  "sha256": "c1b1db28a08aa3404122b05fae088943cdda17f11249bb25810a66413272089d",
+  "source": "fix2:https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/30/example_3"
  },
  "banana-prompt-quicker:banana-prompt-quicker:67c199abae59ee6f": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/d6a72c9c6f8ef4b074b05edf851d91a6d3a6ee654fd7091305ab1d9e565cf4b5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a616d657a2d626f6e646f732f617765736f6d652d677074346f2d696d616765732f63617365732f32392f6578616d706c655f706561726c5f65617272696e675f6f6f74642e706e67",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_67c199abae59ee6f.png",
+  "bytes": 708162,
+  "sha256": "3ec94aab7b93e52e1d631fc0bc1791243c7b090408cca9a1481177049781b4fc",
+  "source": "fix2:https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/29/example_p"
  },
  "banana-prompt-quicker:banana-prompt-quicker:77f76b853ccd3f1d": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/34be2f188d2d9b0d1f406d790ec7ad9fa1db2e095bb43cc3d34bd5886f25536e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a616d657a2d626f6e646f732f617765736f6d652d677074346f2d696d616765732f63617365732f32382f6578616d706c655f666c61745f737469636b65725f706561726c5f65617272696e672e706e67",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_77f76b853ccd3f1d.png",
+  "bytes": 258890,
+  "sha256": "6067b5d14710f64edfb43efb15ece55bdc510ecf3ead9e809459455b2ae9355f",
+  "source": "fix2:https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/28/example_f"
  },
  "banana-prompt-quicker:banana-prompt-quicker:e136709610e6f148": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/7ac18e599a35eba0e9691633130e689c83ae6623d38baff293521fc4a85d2cc1/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d7a3156305a55566f386f6d626b2d4f443134496e4e2e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_e136709610e6f148.png",
+  "bytes": 942994,
+  "sha256": "7e9b240b90866fd524e7d609cf6283d3c7bd1f525d1569df4d1bb3cb75529be5",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-z1V0ZUVo8ombk-OD14InN.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:ee134e2dec6cc4da": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/59fa9dc7aacd8eae0a665dd4788cab4e67fcded679534808e64b4316d073da12/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d417775655a65342d4b35546d7346546467574549562e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_ee134e2dec6cc4da.png",
+  "bytes": 1748153,
+  "sha256": "ad7151439e42920e3ff75a7ffa82f9e672ae796174582a1242922e086aed3a93",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-AwueZe4-K5TmsFTdgWEIV.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:4b071c5666cce858": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/45b01396b09d1b97bab11b9d4b2c4e332c99365f452fef25d4b10c2fb706f5e9/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d4a726f686e4e795552354e31496e4c525a36692d2d2e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_4b071c5666cce858.png",
+  "bytes": 1378005,
+  "sha256": "1c486941eb78a685863783c76605c02162210f9b9a9a9b6eff7b1498a2c1edb6",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-JrohnNyUR5N1InLRZ6i--.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:4ca38eefda02c353": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/2f92af00226c047c8a6af7d7fa71b7bffc866f30ae5678134b97fbf9a7bc4f60/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d466d6e58795f4649413374326f324a4d31416377372e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_4ca38eefda02c353.png",
+  "bytes": 832174,
+  "sha256": "74905e453c7b78727ec191f1e8a000dce6839ff28be3ea7d6bf071541971ae5c",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-FmnXy_FIA3t2o2JM1Acw7.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:8f4a3efb0de02670": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/22abf72726920d35002e4036762f2202ca332d2055564e76dade4d2e6eebc8b5/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d624f39614531575976686f397843385845466954582e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_8f4a3efb0de02670.png",
+  "bytes": 1654614,
+  "sha256": "71818cc19a0bc4cacbe1590f770e75dc45450b5687d3d5547483717631f24365",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-bO9aE1WYvho9xC8XEFiTX.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:5fa18a37ba5f9861": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/da84e6bb2aa563892aaf37d5c824abd5325d4224231f530dc78c025fb1f0ce02/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d6a437534756d4b5f66356e586d49624a43586838552e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_5fa18a37ba5f9861.png",
+  "bytes": 1181347,
+  "sha256": "8b749b6b49a5dc3c1dcd6807ff07f6401810cdd1a876cf03ec18218f76056207",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jCu4umK_f5nXmIbJCXh8U.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:740d8ed5e8edeb55": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/1215f2453257e121f2bfa0776ac7b3660740a279a05a0f2f117559939ab5ef5c/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d727a4d546f3838353478763348533368565338384d2e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_740d8ed5e8edeb55.png",
+  "bytes": 1110642,
+  "sha256": "d503b92cc45e76648cb1af6d26456fd24ebd74f48f94d53439a7a6df743d9641",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-rzMTo8854xv3HS3hVS88M.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:ffcd3f42a7dec792": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/02ca170c19bd1e53e2042d9f64da3e8f0d60892087d0627aa411a6a19b57165d/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d6254544e6171486d487a4d4d70773849594d4d34512e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_ffcd3f42a7dec792.png",
+  "bytes": 1388372,
+  "sha256": "98c07ef7d6598357e5ce63b823cb3a0462c184b4f507f7bedf67f0143a6bcd24",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-bTTNaqHmHzMMpw8IYMM4Q.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:9ba52feef21fd8e6": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/adae0abfb4da4e7ab95e1d34e8d2bd2fa8a82bd76da4a7fe1f1db110e31e1886/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d4b425365574a4a4231456574514e755641427367312e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_9ba52feef21fd8e6.png",
+  "bytes": 1384813,
+  "sha256": "59fa25e4b42ceee7f8b53ae46f501e531fba83ab50c48d27bcaecbbc97819121",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-KBSeWJJB1EetQNuVABsg1.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:9c28f946532272a4": {
   "status": "ok",
@@ -2273,39 +2447,60 @@
   "content_type": "image/png"
  },
  "banana-prompt-quicker:banana-prompt-quicker:127fa9862d4ba7be": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/7f61e4301bcbc9eb3a7dcbbe569ed2233690a754bf7c704116bee4a79447cf1d/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d784c734937614b347a7956576352774a34366132452e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_127fa9862d4ba7be.png",
+  "bytes": 1994256,
+  "sha256": "41117b199bbc2df3ecbe7b646f165e08a411e41d1adf4f110e1d55654bc36e71",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-xLsI7aK4zyVWcRwJ46a2E.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:0a00907ed339e8f6": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/df1beca498c52bcfa41327ebeb14c56763c588c716300d8613539074147d8ebf/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d595758586c5344524d3956547a69512d49413257532e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_0a00907ed339e8f6.png",
+  "bytes": 1497532,
+  "sha256": "5e7f2d6c8eb51bac4c72eebf21c8c70ae63c8dc84eb0d89157502d0b65f29010",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-YWXXlSDRM9VTziQ-IA2WS.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:71778ac32ca3de87": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/09dc9c6a5bc182d9a4f1d38668afd09cb1fb100436a1e9d2c476b2ea163b34fb/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d43612d35594a3436793461397373634e61785945752e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_71778ac32ca3de87.png",
+  "bytes": 2503402,
+  "sha256": "e94b1b58e1fabfd6e46142164b68fdb4f4ea7f72e1cd46d5e10017fc827f8e26",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Ca-5YJ46y4a9sscNaxYEu.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:2bccca4ff0555489": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/b4bcf766d8e48c5bc7c4182b3139eb084bb7cec7acf2742456f94167dac6170c/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d44543877756b783266484863727858516f7361524C2e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_2bccca4ff0555489.png",
+  "bytes": 1988998,
+  "sha256": "09033e2c278b765332ea7880b7e53889eca85a2d6688d6330c258249dc927724",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-DT8wukx2fHHcrxXQosaRL.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:6dcf4fd19867ff26": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/8196596a8cd42fb558ff6d837c11acc9b045ed52950018f48aecd6f9baea1660/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d78476d4e673168674a59307579467433727a32634b2e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_6dcf4fd19867ff26.png",
+  "bytes": 2084070,
+  "sha256": "909ae4f5844e02064377c0e069101f212506aa9b826b86e70ac38a392772a8b9",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-xGmNg1hgJY0uyFt3rz2cK.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:725c491497c52f75": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/b450db45bb2cffbb6e6f42516630155401b25208160f6af68336aa31f2719db3/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d72657472792d5a383347426f555433447763766f4e3573486d30732e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_725c491497c52f75.png",
+  "bytes": 2064265,
+  "sha256": "ac084e31defc2f25d480697aba895974c425ac12a659fbe2e10ca98f92ae55c9",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Z83GBoUT3DwcvoN5sHm0s.png?v"
  },
  "banana-prompt-quicker:banana-prompt-quicker:6cddf1a76825389b": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/cc9df32f0e08a8453b0b6868196e4ff16b75452235dadc8447b1a6b74b127ddf/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d2d4766547a64575162454d4c44694a69524c5a30542e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_6cddf1a76825389b.png",
+  "bytes": 1002876,
+  "sha256": "a68cdee77382cdd70deff33012ad95d20cb2b33ca174de55d5540bd4aa16a9c2",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini--GfTzdWQbEMLDiJiRLZ0T.png?v=1"
  },
  "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:6b86b273ff34fce1": {
   "status": "ok",
@@ -2372,9 +2567,12 @@
   "content_type": "image/png"
  },
  "banana-prompt-quicker:banana-prompt-quicker:6bc6b77b29e49326": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/f86750e53827b3ce50daf102593abaa544806ce443edccdc54e759ef06c05977/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d676a6577334e754467686a4364544e34684e6341642e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_6bc6b77b29e49326.png",
+  "bytes": 1075443,
+  "sha256": "05ec5c0248aea5821193fd116a659ecdc94a46171d51feef7e08f6880ead5129",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-gjew3NuDghjCdTN4hNcAd.png?v=1"
  },
  "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:2c624232cdd22177": {
   "status": "ok",
@@ -2385,24 +2583,36 @@
   "content_type": "image/png"
  },
  "banana-prompt-quicker:banana-prompt-quicker:41712ffc77ba0c7e": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/297007cc08e969ba065b44308e454075552508bbcf677faf519d46619d4e8cd0/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d5f4e4b77475857726e766e326c6b547964394263572e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_41712ffc77ba0c7e.png",
+  "bytes": 2244460,
+  "sha256": "3eea1d99827866b94f4f6e34ddda4916cf725817bf43ac613dc4f31053d7091f",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-_NKwGXWrnvn2lkTyd9BcW.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:c266db8b6dba515f": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/9f0c33dd9099b066abdd4c0ac9576849e8e19aeef0abce2d7e7f68b0155d5f7f/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d4f6473416132526b67336555376162616b47664e5a2e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_c266db8b6dba515f.png",
+  "bytes": 1896015,
+  "sha256": "cde52116689ac36fe03e7e1ee5b9c419217c5fc71eed5a2fc429315d1351d921",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-OdsAa2Rkg3eU7abakGfNZ.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:702fad93ca93748f": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/7f362f5b4cf2ada98d76ee033f5fa18226c5ab99c5a2188ae8c897039d654bfa/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d5f6372464d6f353774544a317474506b50437465312e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_702fad93ca93748f.png",
+  "bytes": 1864780,
+  "sha256": "c6116b6f7431e49481618e6b53b88b537e4e4fa6dcd45cc87654294e08bdc9e9",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-_crFMo57tTJ1ttPkPCte1.png?v=1"
  },
  "banana-prompt-quicker:banana-prompt-quicker:6bfdc124f6f7e8b7": {
-  "status": "failed",
+  "status": "ok",
   "url": "https://camo.githubusercontent.com/1aa5213feeea6cc3523485a64ad969460b11922621efc8983854ef0f3f19489a/68747470733a2f2f626962696770742d617070732e636861747669642e61692f63686174696d672f67656d696e692d736c654d554a47305f736d665968554a3078397a6b2e706e673f763d31",
-  "error": "curl HTTP 403"
+  "file": "covers/banana-prompt-quicker_banana-prompt-quicker_6bfdc124f6f7e8b7.png",
+  "bytes": 1358274,
+  "sha256": "5830c83de2c61e3f4a6e7fee3389529df357c19ddd8c6f886856e1e528e9bfec",
+  "source": "fix2:https://bibigpt-apps.chatvid.ai/chatimg/gemini-sleMUJG0_smfYhUJ0x9zk.png?v=1"
  },
  "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:19581e27de7ced00": {
   "status": "ok",
